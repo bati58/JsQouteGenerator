@@ -3,7 +3,7 @@
 A simple and responsive JavaScript Quote Generator that displays random inspirational quotes with the click of a button. Built using HTML, CSS, and vanilla JavaScript.
 
 ## 🔗 Live Demo
-[View it on GitHub Pages](https://bati58.github.io/JsQuoteGenerator/)
+[View QouteGenerator](https://bati58.github.io/JsQuoteGenerator/)
 
 ## ✨ Features
 - Random quote generation on button click
